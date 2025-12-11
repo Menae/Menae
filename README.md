@@ -1,16 +1,13 @@
-## Hi there 👋
+### こんにちは！👋
+ゲームプログラマ志望の学生エンジニアです。
+UnityとC#を使ってゲーム制作を行っています。
 
-<!--
-**Menae/Menae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 現在取り組んでいること:
+  * ポイント&クリックアクションゲーム「HalOffice」の開発
+  * 体感型満員電車蹴散らしアクションゲーム「StrapStriker」の開発
+- 🌱 学習中の技術: Unity, C#, シェーダーグラフ
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages and Tools
+* **Languages:** C#
+* **Game Engine:** Unity
+* **Tools:** Visual Studio 2022, Git
