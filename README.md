@@ -7,7 +7,7 @@ UnityとC#を使ってゲーム制作を行っています。
   * 体感型満員電車蹴散らしアクションゲーム「StrapStriker」の開発
 - 🌱 学習中の技術: Unity, C#, シェーダーグラフ
 
-### 🛠 Languages and Tools
-* **Languages:** C#
-* **Game Engine:** Unity
-* **Tools:** Visual Studio 2022, Git
+### 🛠 Skills
+* **Programming:** C#
+* **Tools:** Unity 2022.3, Visual Studio 2022, Git
+* **Languages:** Japanese (Native), English (Advanced / TOEIC 895)
