@@ -11,3 +11,7 @@ UnityとC#を使ってゲーム制作を行っています。
 * **Programming:** C#
 * **Tools:** Unity 2022.3, Visual Studio 2022, Git
 * **Languages:** Japanese (Native), English (Advanced / TOEIC 895)
+
+* - 🕰️ **History:**
+  - 2024.09: 独学でゲーム制作を開始（C#, Unity）
+  - 2025.05: GitHubでのバージョン管理を導入
